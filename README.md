@@ -1,4 +1,3 @@
 # SmartClaimzBugs
-Issue Tracking
-
+Issue Tracking for
 https://smartclaimz.io
