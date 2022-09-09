@@ -1,3 +1,3 @@
 # SmartClaimzBugs
-Issue Tracking for
+Public Issue and Discussion Tracking for
 https://smartclaimz.io
